@@ -41,13 +41,13 @@
     <link href="http://yoursite.com/2018/04/16/Thinking-In-DL/"/>
     <id>http://yoursite.com/2018/04/16/Thinking-In-DL/</id>
     <published>2018-04-16T01:19:34.000Z</published>
-    <updated>2018-04-16T03:51:57.851Z</updated>
+    <updated>2018-07-02T06:45:59.318Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="深度神经网络-多层可微分的非线性模型"><a href="#深度神经网络-多层可微分的非线性模型" class="headerlink" title="深度神经网络  多层可微分的非线性模型"></a>深度神经网络  多层可微分的非线性模型</h1><a id="more"></a><h2 id="成功的关键-（与复杂度有关）："><a href="#成功的关键-（与复杂度有关）：" class="headerlink" title="成功的关键 （与复杂度有关）："></a>成功的关键 （与复杂度有关）：</h2><pre><code>1. 模型变深  （泛化能力更强）2. 模型变宽</code></pre><h2 id="使用情况差的场景"><a href="#使用情况差的场景" class="headerlink" title="使用情况差的场景"></a>使用情况差的场景</h2><pre><code>1. 有逐层处理2. 有特征的内部变化3. 有足够的模型复杂度</code></pre><p><a href="http://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&amp;mid=2247494547&amp;idx=1&amp;sn=8d6c8fc2b9d669045d1a679514806ed1&amp;chksm=e99ed86adee9517c77b7ea91e3cfcd575f54b08299361b24cf8fe904d0c8a95cbf8d485e5c7f&amp;mpshare=1&amp;scene=23&amp;srcid=0416tsNB2Xq0xNhxHS2EwLXt#rd" target="_blank" rel="noopener">参考链接</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2018/04/16/Thinking-In-DL/timg.jpg" alt=""><br><a id="more"></a></p><h1 id="深度神经网络-多层可微分的非线性模型"><a href="#深度神经网络-多层可微分的非线性模型" class="headerlink" title="深度神经网络  多层可微分的非线性模型"></a>深度神经网络  多层可微分的非线性模型</h1><h2 id="成功的关键-（与复杂度有关）："><a href="#成功的关键-（与复杂度有关）：" class="headerlink" title="成功的关键 （与复杂度有关）："></a>成功的关键 （与复杂度有关）：</h2><pre><code>1. 模型变深  （泛化能力更强）2. 模型变宽</code></pre><h2 id="使用情况差的场景"><a href="#使用情况差的场景" class="headerlink" title="使用情况差的场景"></a>使用情况差的场景</h2><pre><code>1. 有逐层处理2. 有特征的内部变化3. 有足够的模型复杂度</code></pre><p><a href="http://mp.weixin.qq.com/s?__biz=MzI0ODcxODk5OA==&amp;mid=2247494547&amp;idx=1&amp;sn=8d6c8fc2b9d669045d1a679514806ed1&amp;chksm=e99ed86adee9517c77b7ea91e3cfcd575f54b08299361b24cf8fe904d0c8a95cbf8d485e5c7f&amp;mpshare=1&amp;scene=23&amp;srcid=0416tsNB2Xq0xNhxHS2EwLXt#rd" target="_blank" rel="noopener">参考链接</a></p>]]></content>
     
     <summary type="html">
     
-      &lt;h1 id=&quot;深度神经网络-多层可微分的非线性模型&quot;&gt;&lt;a href=&quot;#深度神经网络-多层可微分的非线性模型&quot; class=&quot;headerlink&quot; title=&quot;深度神经网络  多层可微分的非线性模型&quot;&gt;&lt;/a&gt;深度神经网络  多层可微分的非线性模型&lt;/h1&gt;
+      &lt;p&gt;&lt;img src=&quot;/2018/04/16/Thinking-In-DL/timg.jpg&quot; alt=&quot;&quot;&gt;&lt;br&gt;&lt;/p&gt;
     
     </summary>
     
